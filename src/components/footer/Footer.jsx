@@ -390,7 +390,7 @@ const Footer = () => {
                 href="/credit-card"
                 className="font-bold italic font-sansita w-20 h-7 flex items-center text-green-3 text-xl bg-clip-text"
               >
-                Grocer<span className="text-green-1">Go</span>
+                Teekhi<span className="text-green-1">Mirchi</span>
               </Link>
               <Image
                 src="/images/footer/alelo.webp"
